@@ -42,4 +42,4 @@ E-Mail: jan-luca@spletti.info
 
 Website: [spletti.info](https://www.spletti.info)
 
-Instagram: @luca.spl3tti
+Instagram: [@luca.spl3tti](https://www.instagram.com/luca.spl3tti/)
