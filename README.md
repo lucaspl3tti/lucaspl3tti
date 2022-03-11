@@ -1,6 +1,6 @@
 # Hi, name's Luca! 🌙
 
-I’m a Junior Frontend Developer and UI / UX Designer with a burning passion for good, clean code and awesome, creative Designs! 🧚‍♀️
+I’m a Junior Frontend Developer and UI / UX Designer with a burning passion for good, clean code and creative Designs! 🧚‍♀️
 
 ## About me
 
