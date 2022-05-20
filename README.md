@@ -14,25 +14,25 @@ In 2018 I then began my training as a Webdeveloper at a german digital agency. I
 
 ## What I do
 
-At my current position I'm responsible for the implementation of UIs in web applications, as well as developing shopware plugins / themes with SCSS and JavaScript. Moreover I am developing dynamic PDF-generators with the PDFlib PHP library.
+At my current position I'm responsible for the implementation of UIs in web applications, as well as developing shopware plugins / themes with SCSS and JavaScript. Moreover I am also working on some Vue.js Projects and I am building dynamic PDF-generators with the PDFlib PHP library.
 
-In my freetime my head is also wrapped up with Frontend Development and Design. Currently I love to expand my JavaScript Knowledge as well as building some Applications with Vue.js.
+In my freetime my head is also wrapped up with Frontend Development and Design. I am always driven by desire to learn more and be up to date with current technologies in frontend development. My next big goal is to learn Swift for iOS App development.
 
 ### Skills
 
 Over the time I could build up a useful set of knowledge about programming languages, tools and also some libraries / frameworks...
 - JavaScript
 - SCSS / SASS
-- Bootstrap 5
-- HTML5
 - Vue.js
+- HTML5
 - PDFlib PHP Library
 - PHP
+- Bootstrap 5
 - Shopware 6
 - WordPress
 - Gulp
 - Git SCM
-- CSS
+- CSS3
 - Figma / Adobe XD / Sketch
 - Adobe CC
 - Newsletter Templating
