@@ -21,20 +21,20 @@ In my freetime my head is also wrapped up with Frontend Development and Design. 
 ### Skills
 
 Over the time I could build up a useful set of knowledge about programming languages, tools and also some libraries / frameworks...
-- JavaScript
-- SCSS / SASS
-- Vue.js
-- HTML5
+- JavaScript ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- SCSS / SASS ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+- Vue.js ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+- HTML5 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - PDFlib PHP Library
-- PHP
-- Bootstrap 5
+- PHP ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+- Bootstrap 5 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 - Shopware 6
-- WordPress
-- Gulp
-- Git SCM
-- CSS3
+- WordPress ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+- Gulp ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
+- Git SCM ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- CSS3 	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - Figma / Adobe XD / Sketch
-- Adobe CC
+- Adobe CC 	![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 - Newsletter Templating
 
 ## How to reach me
