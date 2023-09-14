@@ -64,12 +64,10 @@ Even in my free time, my mind is wrapped up with frontend development and design
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspl3tti&hide_border=true&layout=compact" align="left" style="width: 100%" />  
 
-<br/>  
+<br/>
+<br />
 
 
 ## Spotify Listening  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=lusple&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=371a94&bar_color_cover=false" /></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
