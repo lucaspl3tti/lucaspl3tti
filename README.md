@@ -7,18 +7,10 @@ I’m a Frontend Developer and UI / UX Designer with a burning passion for good,
 
 
 ### Connect with me  
-<a href="https://github.com/lucaspl3tti" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a> &nbsp;
-<a href="https://linkedin.com/in/jan-luca-splettstößer-105966212" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> &nbsp;
-<a href="https://instagram.com/luca.spl3tti" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a> &nbsp;
-<a href="https://stackoverflow.com/users/16508611/strayed-soul" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
+<a href="https://github.com/lucaspl3tti" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>&nbsp;
+<a href="https://linkedin.com/in/jan-luca-splettstößer-105966212" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>&nbsp;
+<a href="https://instagram.com/luca.spl3tti" target="_blank"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>&nbsp;
+<a href="https://stackoverflow.com/users/16508611/strayed-soul" target="_blank"><img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" /></a>  
   
 
 
