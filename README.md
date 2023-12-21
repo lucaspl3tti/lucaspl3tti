@@ -7,7 +7,7 @@ I’m a Frontend Developer and UI / UX Designer with a burning passion for good,
 
 
 ### Connect with me  
-<a href="https://github.com/lucaspl3tti" target="_blank">
+<a id="github" href="https://github.com/lucaspl3tti" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>&nbsp;
 <a href="https://linkedin.com/in/jan-luca-splettstößer-105966212" target="_blank">
