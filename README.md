@@ -24,8 +24,7 @@
 
 I'm a passionate Frontend Developer with over 4 years of experience in building digital products. My heart beats for the **Vue.js/Nuxt** ecosystem and modern **TypeScript**.
 
-- 🔭 **Currently working on:** High-performance Shopware 6 themes and complex Vue.js applications.
-- 🌱 **Learning:** Deep diving into advanced Frontend Architecture and Design Systems.
+- 🔭 **Currently focusing on:** Complex Vue/Nuxt applications, high-perfomance Shopware 6 themes and custom Pimcore-Bundles.
 - 💬 **Ask me about:** Vue.js, Nuxt, modern TypeScript, Shopware 6 and Pimcore.
 - ⚡ **Fun fact:** My passion doesn't end at 5 PM – I love building side projects to experiment with new frameworks.
 
